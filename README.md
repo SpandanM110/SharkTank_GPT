@@ -1,5 +1,15 @@
 # Shark Tank AI Analyzer
+<div align="center">
 
+<a href="https://peerlist.io/spandanm110/project/shark-tank-gpt" target="_blank" rel="noreferrer">
+    <img
+        src="https://peerlist.io/api/v1/projects/embed/PRJHR8DDDMGG7L7OLIANLBRJA6BBOL?showUpvote=true&theme=dark"
+        alt="Shark Tank GPT"
+        style="width: auto; height: 72px;"
+    />
+</a>
+
+</div>
 A comprehensive AI-powered analysis system for Shark Tank pitches using LangGraph and Streamlit. This system provides intelligent investment analysis, pitch evaluation, and success prediction based on historical Shark Tank data from US, India, and Australia.
 
 ## Features
